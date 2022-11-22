@@ -7,7 +7,7 @@ Technical Story: Prueba
 
 ## Context and Problem Statement
 
-Hola esto es una pequeña prueba
+prueba
 
 ## Decision Drivers
 
