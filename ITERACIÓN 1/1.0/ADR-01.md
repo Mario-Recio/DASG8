@@ -8,11 +8,11 @@ Technical Story: Architecture Decision
 
 ## Context and Problem Statement
 
-Se requiere una base de datos interna para gestionar todo el espacio de almacenamiento de los datos que producen los sensores y otros dispositivos.
+Se requiere una pasarela para poder comunicar a los operarios que quieran consumir eventos o notificaciones, con la estructura que almacena la información.
 
 ## Decision Drivers
 
-* Se necesita una base de datos relacional que conecte con el sistema interno para poder guardar toda la información que se quiera consultar o enviar a los clientes a posteriori.
+* Así se comunicaría el sistema interno con la base de datos, para poder acceder a toda la información que se quiera consultar.
 
 ## Considered Options
 

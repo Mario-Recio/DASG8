@@ -8,7 +8,7 @@ Technical Story: Architecture Decision
 
 ## Context and Problem Statement
 
-Se requiere una arquitectura REST para poder comunicar entre un sistema interno (back end) y un sistema frontal (front-end) donde los clientes puedan hacer peticiones al sistema y de esta forma tener acceso a la información.
+Se requiere una pasarela para poder comunicar a los operarios que quieran consumir eventos o notificaciones, con la estructura que almacena la información.
 
 ## Decision Drivers
 
