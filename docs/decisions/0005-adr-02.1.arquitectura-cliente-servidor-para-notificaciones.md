@@ -12,7 +12,7 @@ Se necesita un sistema de gestión y envio de notificaciones, que reaccione a la
 
 ## Decision Drivers
 
-* Se necesita una base de datos relacional que conecte con el sistema interno para poder guardar toda la información de que se quiera consultar o enviar a los clientes a posteriori.
+* Se necesita conectar el sistema interno con los operarios para tener acceso a toda la información que se quiera consultar.
 
 ## Considered Options
 
