@@ -1,8 +1,8 @@
-# ADR-04.Módulo de trabajo conectado con componente de visualización
+# ADR-04.Módulo de ordenes de trabajo conectado con componente de visualización
 
-* Status: accepted
+* Status: deprecated
 * Deciders: ASS,ASC
-* Date: 2022-11-09
+* Date: 2022-11-23
 
 Technical Story: Architecture Decision
 
