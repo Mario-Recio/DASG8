@@ -21,4 +21,4 @@ Se requiere un sistema que sea capaz de gestionar usuarios que se suscriban a di
 
 ## Decision Outcome
 
-Chosen option: "ADR-07", because Se acepta esta decisión dado que es la opción que más sentido tiene, está muy bien argumentado el Rationale y no le hemos encontrado inconvenientes.
+Chosen option: "ADR-07", because Se acepta esta decisión dado que es la opción que más sentido tiene, y no le hemos encontrado inconvenientes.

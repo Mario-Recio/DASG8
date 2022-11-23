@@ -8,7 +8,7 @@ Technical Story: Architecture Decision
 
 ## Context and Problem Statement
 
-Se necesita implementar una familia de 3 tipos de sensores, donde en una de ellas, hay 3 sensores que se comuniquen entre sí, de forma que el primero envía información al segundo y este al tercero que finalmente lo envía al centro de notificaciones.
+Se necesita implementar una comunicación entre 3 sensores, de forma que el primero envía información al segundo y este al tercero que finalmente lo envía al centro de notificaciones.
 
 ## Decision Drivers
 

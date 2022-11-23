@@ -12,7 +12,7 @@ Se requiere un módulo de órdenes de trabajo para gestionar toda la operativa d
 
 ## Decision Drivers
 
-* Dentro de los usuarios que consumen las notificaciones enviadas por el sistema interno habrá un apartado específico para gestionar las necesidades de cada operador.
+* Dentro de los usuarios que consumen las notificaciones enviadas por el sistema interno, habrá un apartado específico para gestionar las necesidades de cada operador.
 
 ## Considered Options
 
